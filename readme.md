@@ -17,11 +17,11 @@ Hello! My knowledge is still relatively limited and my achievements are few, but
 
 I have hands-on experience with:
 
-- **Languages:** Python, SQL (SQLite3, PostgreSQL, Redis)
+- **Languages:** Python, SQL(SQLite3)
 - **TGBots:** Telebot, Aiogram
 - **Containerization:** Docker, Docker Compose
 - **DevOps:** Git, GitHub Actions
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** PostgreSQL, Redis
 - **Networking & OS:** basic understanding of how the internet works, OSI/TCP-IP protocols, Linux fundamentals (commands, scripts, permissions)
 - **Tools:** macOS, Linux, VSCode
 - **Music:** vocals, guitar performance
