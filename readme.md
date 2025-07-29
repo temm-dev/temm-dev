@@ -17,8 +17,8 @@ Hello! My knowledge is still relatively limited and my achievements are few, but
 
 I have hands-on experience with:
 
-- **Languages:** Python, SQL (PostgreSQL), Bash
-- **Web:** Flask, FastAPI, REST API
+- **Languages:** Python, SQL (SQLite3, PostgreSQL, Redis)
+- **TGBots:** Telebot, Aiogram
 - **Containerization:** Docker, Docker Compose
 - **DevOps:** Git, GitHub Actions
 - **Databases:** PostgreSQL, MongoDB
@@ -33,7 +33,7 @@ I have hands-on experience with:
 In the near future, I plan to master the following areas:
 
 - **CS Fundamentals:** algorithms and data structures, computer networks, operating systems, system administration
-- **Languages:** C++, advanced Bash usage
+- **Languages:** C++, Bash
 - **DevOps & Infrastructure:** Kubernetes, Terraform, CI/CD (GitLab CI), monitoring
 - **Security & OSINT:** OWASP, penetration testing (Metasploit, Burp Suite), OSINT tools, cryptography
 - **ML/AI:** machine learning (Scikit-Learn), deep learning (TensorFlow, PyTorch), MLOps
