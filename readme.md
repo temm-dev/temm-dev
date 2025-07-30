@@ -54,7 +54,7 @@ In the near future, I plan to master the following areas:
 
 ## 📫 Contact
 
-- 📨 Email: Soon
+- 📨 Email: temm-dev@proton.me
 - 💬 Telegram: Soon
 - 🔗 WorkBY: Soon
 
